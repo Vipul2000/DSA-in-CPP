@@ -1,0 +1,19 @@
+How does the c++ program work?
+
+
+#include<iostream>   
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+     cout<<"Hello world";
+     return 0;
+}
+
+-> # is called preprocessor directives, 'iostream' files is known as header files which have some pre-written codes (basics input,output functions)
+
+'using namespace std;' -> standard form of input and output.
+
+'int main()' -> It is a functions which perform a specific task and return 0.
+
+// -> It is called comment in c++. 

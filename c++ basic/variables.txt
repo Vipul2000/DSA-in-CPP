@@ -1,0 +1,24 @@
+-> Variables is like containers wgich is use to store data.
+-> Named storage that contain some values.
+
+-> for storing integer value we use 'int'.
+int apple = 5; here int specifies type of data.
+
+
+Rules of naming variables in c++
+1. Variable nam should not begin with with a number.
+2.Whitespaces are not permitted in variable names.
+3.A c++ keywprd cannot be used as a variable name
+4.while creating variables it's preferable to give them meaningful name.
+5.we use all lowercase letters when creating one-word variable name. for variable names with more than one word the first word hasall lowercase letter and first letter of subsequent words capitalised.
+
+                   C++ Data Types
+
+-It states what type of data is stored.
+-how much memory will be used.
+-range of values in variables.
+
+It is classified into three types.
+-Primary: it is built in data type.
+-Derived: it is derived from primary data type.
+-User defined: it is defined by user.
